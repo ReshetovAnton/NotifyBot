@@ -59,7 +59,7 @@ namespace Bot
 							).ConfigureAwait(false);
 						break;
 					case "/help":
-						//
+						//Обработка команды help
 						break;
 				}
 			}
